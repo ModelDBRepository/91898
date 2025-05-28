@@ -1,3 +1,6 @@
+# Richard Bertram – Computer Software
+**Base URL for original page:** [http://www.math.fsu.edu/~bertram/](http://www.math.fsu.edu/~bertram/)
+
 Note from ModelDB Administrator:  The below web page is a copy of
 [http://www.math.fsu.edu/~bertram/software/pituitary/](http://www.math.fsu.edu/~bertram/software/pituitary/) made on May 8th, 2007 The Tabak et al. 2007 link is at the bottom.
 
